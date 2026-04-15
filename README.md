@@ -14,7 +14,7 @@ Currently, I am working at **Transport Canada (Strategy & Emerging Technology / 
 - 🛰️ **Research & Development in RPAS Traffic Management**
   - Working with GIS, aviation standards, and safety engineering
 - 🏢 **Process Automation for Government Operations**
-  - Developing internal systems using Microsoft PowerApps & PowerAutomate
+  - Developed internal systems using Microsoft PowerApps & PowerAutomate
 
 ---
 
