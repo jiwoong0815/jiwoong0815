@@ -57,6 +57,6 @@
 
   <!-- name lockup -->
   <text x="64" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#E8EEF7">Jiwoong Choi</text>
-  <text x="64" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#3DB8A8">최지웅  ·  aerospace / space software &amp; systems</text>
+  <text x="64" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#3DB8A8">aerospace / space software &amp; systems</text>
   <text x="64" y="268" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" fill="#9AA8BC">McGill Software Engineering Co-op  ·  Avionics Director @ MAD</text>
 </svg>
