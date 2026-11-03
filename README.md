@@ -1,110 +1,56 @@
-# Hi, I'm Jiwoong 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Jiwoong Choi — aerospace / space software &amp; systems" width="100%" />
+</p>
 
-🚀 **Software Engineering Student | Aerospace, Space Systems & Avionics**
-📍 Montreal, Canada
+<h1 align="center">Hi, I'm Jiwoong</h1>
 
-I am a Software Engineering student at **McGill University** with a strong interest in **aerospace systems, space technology, drones (RPAS), avionics, and technical software development**.
+<p align="center">
+  McGill <strong>Software Engineering</strong> co-op (grad Dec 2027) · based in Montreal<br/>
+  Building at the seam of <strong>software × aerospace / space systems</strong><br/>
+  <em>Avionics Director</em> @ McGill Aerial Design · ex Transport Canada CSL &amp; SET RPAS
+</p>
 
-Currently, I am working at **Transport Canada with the Commercial Space Launch (CSL) team**, where I am designing the requirements and overall structure for a software intake system supporting commercial space launch applications in Canada.
-
-I especially enjoy projects where I need to **learn a new technical field, understand the real problem, and turn those needs into a software or system design**.
-
----
-
-## 🔭 What I'm Currently Working On
-
-### 🛰️ Commercial Space Launch Intake System
-
-* Designing the **software requirements and system architecture** for a Commercial Space Launch intake platform
-* Developing the proposed **data model, workflows, user roles, and system integrations**
-* Researching commercial space launch processes and translating operational needs into software requirements
-* Evaluating integration with existing tools and identifying technical constraints and future development needs
-* Exploring implementation using **Dataverse, Power Platform, and related Microsoft technologies**
-
-### 🚁 Aerospace & Avionics Projects
-
-* Developing and integrating avionics systems for competition aircraft with **McGill Aerial Design**
-* Working with flight computers, sensors, computer vision, communication systems, and autonomous aircraft technologies
+<p align="center">
+  <a href="mailto:jiwoong.choi@mail.mcgill.ca"><img src="https://img.shields.io/badge/email-jiwoong.choi%40mail.mcgill.ca-0B1220?style=flat-square&logo=gmail&logoColor=3DB8A8" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jiwoong-choi03/"><img src="https://img.shields.io/badge/LinkedIn-jiwoong--choi03-0B1220?style=flat-square&logo=linkedin&logoColor=3DB8A8" alt="LinkedIn" /></a>
+  <a href="https://github.com/jiwoong0815"><img src="https://img.shields.io/badge/GitHub-jiwoong0815-0B1220?style=flat-square&logo=github&logoColor=3DB8A8" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Summer%202027-open%20to%20internships-3DB8A8?style=flat-square&labelColor=0B1220" alt="Open to Summer 2027 internships" />
+</p>
 
 ---
 
-## 🛩️ McGill Aerial Design – Avionics Director
+### Right now
+- 🛰️ **Avionics Director** at McGill Aerial Design — overall lead for a tilt-rotor VTOL UAV avionics stack (Cube Orange+, Jetson Orin Nano / YOLOv8, ZED 2i SLAM); I work with sub-team leads, review reports, and keep integration on track
+- 🚀 Looking for **Summer 2027** internships in aerospace/space software, systems engineering, or product management
+- ✍️ Co-author on an Aviation Safety Letter piece about RPAS BVLOS & detect-and-avoid ([issue](https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/aviation-safety-letter-issue-3-2026) · [PDF p.15](https://tc.canada.ca/sites/default/files/2026-09/asl-3-2026-6.pdf))
 
-* Leading avionics and software development for competition aircraft
-* Designed and deployed an **infrared computer-vision system** using NVIDIA Jetson + OpenCV
-* Worked on onboard computing, sensors, flight systems, and hardware/software integration
-* Collaborating with mechanical, electrical, and software members during aircraft design and flight testing
-* Leading a team of avionics and software engineering students
+### Recent work (snapshots)
+**Transport Canada — CSL** *(May–Aug 2026)* — launch-vehicle trajectory sims in **ASTOS**; VM setup for the sim environment; a **Python** script for parallel/batch runs; early work on a **rocket-launch application** tool for Canada.
 
----
+**Transport Canada — SET RPAS** *(Sep 2025–Apr 2026)* — **Power Apps / Power Automate** for the **RPAS Declaration** workflow; early **Mission Planner (C#)** **ED-318** geozone viewer with **DSST-style** overlays; UAV occurrence analysis for management; technical review comments on **ICAO RPAS** manual working materials.
 
-## ✈️ Previous Aerospace Software Work
+**Lohas Medi** *(Seoul, Summer 2025)* — inventory/compliance system for medical supplies; data models, backend layout, roles; **Java + SQL**.
 
-At Transport Canada, I have also worked on RPAS and aviation technology projects including:
+**CoolSupplies** *(ECSE 223)* — led the team: researched real API hooks, split the work, and divided tasks across teammates (Java / Gherkin).
 
-* Airspace and geozone visualization
-* GIS and aeronautical data standards such as **GeoJSON, KML, AIXM, and ED-318**
-* RPAS Traffic Management (RTM/UTM) research
-* Mission Planner and ground-control software development
-* Aviation safety and emerging technology research
+### Spotlight
+**QueueCare** — McHacks12 (Jan 2025). AI chatbot / ER queue tool on an LLM API (**GPT-4 + Gumloop**, React). **3rd of 133 teams** · **Gumloop Best AI Project**.
 
----
+### Toolkit
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,bash,react,postgres,git,vscode&theme=dark" alt="Python, C, C++, C#, Java, JS, Bash, React, Postgres, Git, VS Code" /></a>
+</p>
 
-## 🧠 Interests
+Also in the bag: **ASTOS**, Mission Planner, Cube Orange+, Jetson Orin Nano, OpenCV / YOLOv8, Power Apps & Automate, VHDL, Assembly.
 
-* 🛰️ Space & Aerospace Systems
-* 💻 Software & Systems Engineering
-* 🚁 RPAS / UAV Technologies
-* 🔌 Avionics & Embedded Systems
-* 🗺️ GIS / Geospatial Software
-* 🔬 Technical Research & R&D
-* 🧩 System Architecture & Integration
-* 🚀 Satellite and Space Mission Software
+### Quick facts
+| | |
+|---|---|
+| 🗣️ | English & Korean (fluent) · French (basic) |
+| 📍 | Montreal ↔ Ottawa thread (McGill · Transport Canada) |
+| 🎓 | ACI-ICAO Aerodrome Certification (Sep 2026) · Model ICAO Safety Delegate (2026) |
 
----
+### Say hi
+📧 **jiwoong.choi@mail.mcgill.ca** · always happy to talk aerospace software, RPAS, or student avionics.
 
-## 🛠️ Tech & Tools
-
-**Languages:** Python, Java, C#, C/C++, JavaScript, Bash
-**Software & Web:** React, Spring, Git/GitHub, HTML/CSS
-**Data & Systems:** SQL, Data Modelling, Dataverse
-**Microsoft:** Power Platform, Power Apps, Power Automate
-**Aerospace & GIS:** GeoJSON, KML, AIXM, GIS, RPAS/UTM
-**Hardware & Avionics:** NVIDIA Jetson, OpenCV, flight controllers, embedded systems
-**Development:** Linux, Visual Studio Code, Visual Studio, IntelliJ
-
----
-
-## 📚 Experience Highlights
-
-### Transport Canada – Commercial Space Launch / Software Engineering
-
-* Software requirements and system architecture
-* Data modelling and workflow design
-* Technical research and requirements analysis
-* System integration planning
-* Commercial space launch technology and processes
-
-### Transport Canada – RPAS & Emerging Aviation Technology
-
-* Airspace visualization software
-* GIS and aeronautical data
-* RPAS Traffic Management research
-* Aviation technology and safety research
-
-### McGill Aerial Design – Avionics Director
-
-* Avionics and software leadership
-* Computer vision development
-* Aircraft systems integration
-* Flight testing and technical development
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/jiwoong-choi03/
-
----
-
-⭐ I'm especially interested in opportunities where **software engineering meets aerospace or space technology**, and where I can keep learning, building, and solving real engineering problems.
+<!-- Portfolio: jiwoongchoi.com — chosen domain, pending his purchase / Pages setup -->
